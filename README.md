@@ -4,7 +4,7 @@ Shop_it_cart is the frontend of an e-commerce web application built with ReactJS
 
 ## Live Link
 
-You can access the live application at []().
+You can access the live application at [https://shop-it-cart.vercel.app/](https://shop-it-cart.vercel.app/)
 
 ## Features
 
