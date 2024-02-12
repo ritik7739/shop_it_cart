@@ -1,6 +1,6 @@
-# MERN-E-Commerce-Frontend
+# Shop_it_cart
 
-MERN-E-Commerce-Frontend is the frontend of an e-commerce web application built with ReactJS ,Material UI, ContextAPI, React-router-dom
+Shop_it_cart is the frontend of an e-commerce web application built with ReactJS ,Material UI, ContextAPI, React-router-dom
 
 ## Live Link
 
@@ -37,7 +37,7 @@ To run the application on your local machine, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Saurabh-8585/MERN-E-Commerce-Frontend.git
+   git clone
    ```
 
 2. Install the dependencies:
